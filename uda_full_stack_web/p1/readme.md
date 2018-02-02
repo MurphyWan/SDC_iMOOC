@@ -1,5 +1,5 @@
 ## Movie-Trailer-Website
--Use fresh_tomatoes.py provided by Udacity to generate a static web page allow visitors to browse their movies and watch the trailers.
+- Use fresh_tomatoes.py provided by Udacity to generate a static web page allow visitors to browse their movies and watch the trailers.
 
 ---
 
