@@ -9,6 +9,7 @@
 |49|H5&CSS|[49 Inherit Styles from the Body Element](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/49%20Inherit%20Styles%20from%20the%20Body%20Element.html)|
 |50|H5&CSS|[50 Prioritize One Style Over Another](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/50%20Prioritize%20One%20Style%20Over%20Another%20.html)|
 |51|H5&CSS|[51 Override Styles in Subsequent CSS](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/51%20Override%20Styles%20in%20Subsequent%20CSS.html)|
+|52|H5&CSS|[52 Override Class Declarations by Styling ID Attributes](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/52%20Override%20Class%20Declarations%20by%20Styling%20ID%20Attributes.html)|
 
 
 
