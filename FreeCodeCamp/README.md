@@ -10,8 +10,8 @@
 |50|H5&CSS|[50 Prioritize One Style Over Another](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/50%20Prioritize%20One%20Style%20Over%20Another%20.html)|
 |51|H5&CSS|[51 Override Styles in Subsequent CSS](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/51%20Override%20Styles%20in%20Subsequent%20CSS.html)|
 |52|H5&CSS|[52 Override Class Declarations by Styling ID Attributes](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/52%20Override%20Class%20Declarations%20by%20Styling%20ID%20Attributes.html)|
-|62|Bootstrap|[Use Responsive Design with Bootstrap Fluid Containers](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Use%20Responsive%20Design%20with%20Bootstrap%20Fluid%20Containers.html)|
-||||
+|61|Bootstrap|[Use Responsive Design with Bootstrap Fluid Containers](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Use%20Responsive%20Design%20with%20Bootstrap%20Fluid%20Containers.html)|
+|62|Bootstrap|[62 Make Images Mobile Responsive](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Make%20Images%20Mobile%20Responsive.html)|
 ||||
 ||||
 ||||
