@@ -12,7 +12,7 @@
 |52|H5&CSS|[52 Override Class Declarations by Styling ID Attributes](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/52%20Override%20Class%20Declarations%20by%20Styling%20ID%20Attributes.html)|
 |61|Bootstrap|[Use Responsive Design with Bootstrap Fluid Containers](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Use%20Responsive%20Design%20with%20Bootstrap%20Fluid%20Containers.html)|
 |62|Bootstrap|[62 Make Images Mobile Responsive](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Make%20Images%20Mobile%20Responsive.html)|
-||||
+|63|Bootstrap|[63 Make Images Mobile Responsive](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/63%20Make%20Images%20Mobile%20Responsive.html)|
 ||||
 ||||
 
