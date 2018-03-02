@@ -14,6 +14,9 @@
 |62|Bootstrap|[62 Make Images Mobile Responsive](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/62%20Make%20Images%20Mobile%20Responsive.html)|
 |63|Bootstrap|[63 Make Images Mobile Responsive](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/63%20Make%20Images%20Mobile%20Responsive.html)|
 |64|Bootstrap|[64 Center Text with Bootstrap](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/64%20Center%20Text%20with%20Bootstrap.html)|
+|70|BootStrap|[70 Use Spans for Inline Elements](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/70%20Use%20Spans%20for%20Inline%20Elements.html)|
+||||
+||||
 ||||
 
 
