@@ -18,7 +18,7 @@
 |71|BootStrap|[71 use-spans-for-inline-elements](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/71%20use-spans-for-inline-elements.html)|
 |73|BootStrap|[add font awesome icon to all of button](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/73%20class%20fa%20fa-info-circle.html)|
 |7x|BootStrap|[Responsively Style Radio Buttons](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/74%20Responsively%20Style%20Radio%20Buttons.html)|
-||||
+|102|JQuery|[Remove-an-element-using-jquery](https://github.com/MurphyWan/SDC_iMOOC/blob/master/FreeCodeCamp/files/102%20remove-an-element-using-jquery.html)|
 ||||
 ||||
 ||||
